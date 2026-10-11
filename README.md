@@ -94,16 +94,16 @@ dev/prod builds are unaffected.
 Thanks to everyone who makes PrepTrack better:
 
 <a href="https://github.com/swastiksingh-dev/Sunil-Bhaiya-PrepTrack/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=swastiksingh-dev/Sunil-Bhaiya-PrepTrack" alt="PrepTrack contributors" />
+<img src="https://contrib.rocks/image?repo=swastiksingh-dev/Sunil-Bhaiya-PrepTrack" alt="PrepTrack contributors" loading="lazy" />
 </a>
 
 <table>
 <tr>
 <td align="center" width="200">
-<a href="https://github.com/swastiksingh-dev"><img src="https://github.com/swastiksingh-dev.png" width="100" height="100" alt="Swastik Singh" style="border-radius:50%" /><br/><b>Swastik Singh</b></a><br/>owner & maintainer
+<a href="https://github.com/swastiksingh-dev"><img src="https://github.com/swastiksingh-dev.png" width="100" height="100" alt="Swastik Singh" loading="lazy" style="border-radius:50%" /><br/><b>Swastik Singh</b></a><br/>owner & maintainer
 </td>
 <td align="center" width="200">
-<a href="https://github.com/sunilbhaiya200"><img src="https://github.com/sunilbhaiya200.png" width="100" height="100" alt="sunilbhaiya200" style="border-radius:50%" /><br/><b>sunilbhaiya200</b></a><br/>contributor
+<a href="https://github.com/sunilbhaiya200"><img src="https://github.com/sunilbhaiya200.png" width="100" height="100" alt="sunilbhaiya200" loading="lazy" style="border-radius:50%" /><br/><b>sunilbhaiya200</b></a><br/>contributor
 </td>
 </tr>
 </table>
