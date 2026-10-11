@@ -93,6 +93,10 @@ dev/prod builds are unaffected.
 
 Thanks to everyone who makes PrepTrack better:
 
+<a href="https://github.com/swastiksingh-dev/Sunil-Bhaiya-PrepTrack/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=swastiksingh-dev/Sunil-Bhaiya-PrepTrack" alt="PrepTrack contributors" />
+</a>
+
 <table>
 <tr>
 <td align="center" width="200">
