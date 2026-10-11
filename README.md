@@ -18,9 +18,9 @@
 
 [Features](#features) · [Setup](#setup) · [Tests](#tests) · [Contributors](#contributors)
 
-<img src="./docs/demo.gif" width="800" alt="PrepTrack tour: landing page, pace demo, dashboard and chapters" />
+<video src="./docs/about.mp4" width="800" controls></video>
 
-*Landing → pace demo → dashboard → chapters. Fully offline-capable.*
+*PrepTrack launch film — turn the sound on.*
 
 </div>
 
