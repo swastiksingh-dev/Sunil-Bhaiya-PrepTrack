@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./app/icon.svg" width="120" height="120" alt="PrepTrack logo" />
+
 # 📚 PrepTrack
 
 **Sunil Bhaiya PrepTrack — the rebuilt, offline-first evolution of the original Sunil Bhaiya tracker.**
@@ -12,7 +14,11 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38BDF8?style=flat-square&logo=tailwind-css&logoColor=black)](https://tailwindcss.com/)
 [![PWA](https://img.shields.io/badge/PWA-offline--first-6a4cf5?style=flat-square)](https://web.dev/progressive-web-apps/)
 
-[✨ Live Demo](https://swastiksingh-dev.github.io/Sunil-Bhaiya-PrepTrack/) · [🐛 Report an issue](https://github.com/swastiksingh-dev/Sunil-Bhaiya-PrepTrack/issues)
+[✨ **Try the live demo**](https://swastiksingh-dev.github.io/Sunil-Bhaiya-PrepTrack/) · [🐛 Report an issue](https://github.com/swastiksingh-dev/Sunil-Bhaiya-PrepTrack/issues)
+
+<img src="./docs/demo.gif" width="760" alt="PrepTrack tour: landing page, pace demo, dashboard and chapters" />
+
+*Landing → pace demo → dashboard → chapters. Fully offline-capable.*
 
 </div>
 
@@ -28,6 +34,14 @@ tells you the one honest number that matters: **stages per day**.
 - 100% **offline-first** — install it, lose signal, keep studying
 - **No accounts, no servers** — progress lives on the student's own device
 - **Free forever** — one-file backup moves everything to a new phone
+
+<table>
+<tr>
+<td align="center">📴<br/><b>Offline-first</b><br/>Works without internet</td>
+<td align="center">🔒<br/><b>Private</b><br/>Data never leaves the device</td>
+<td align="center">💸<br/><b>Free forever</b><br/>No accounts, no paywalls</td>
+</tr>
+</table>
 
 ## Features
 
@@ -79,8 +93,16 @@ dev/prod builds are unaffected.
 
 Thanks to everyone who makes PrepTrack better:
 
-- [Swastik Singh](https://github.com/swastiksingh-dev) — owner & maintainer
-- [sunilbhaiya200](https://github.com/sunilbhaiya200) — contributor
+<table>
+<tr>
+<td align="center" width="200">
+<a href="https://github.com/swastiksingh-dev"><img src="https://github.com/swastiksingh-dev.png" width="100" height="100" alt="Swastik Singh" style="border-radius:50%" /><br/><b>Swastik Singh</b></a><br/>owner & maintainer
+</td>
+<td align="center" width="200">
+<a href="https://github.com/sunilbhaiya200"><img src="https://github.com/sunilbhaiya200.png" width="100" height="100" alt="sunilbhaiya200" style="border-radius:50%" /><br/><b>sunilbhaiya200</b></a><br/>contributor
+</td>
+</tr>
+</table>
 
 ---
 
