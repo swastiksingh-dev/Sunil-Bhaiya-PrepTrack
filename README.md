@@ -18,9 +18,9 @@
 
 [Features](#features) · [Setup](#setup) · [Tests](#tests) · [Contributors](#contributors)
 
-<video src="./docs/about.mp4" width="800" controls preload="metadata"></video>
+<img src="./docs/about.gif" width="800" alt="PrepTrack launch film preview" />
 
-*PrepTrack launch film — turn the sound on. Can't see the player? [Watch it directly](./docs/about.mp4).*
+*PrepTrack launch film.*
 
 </div>
 
