@@ -16,6 +16,13 @@
 
 [✨ **Try the live demo**](https://swastiksingh-dev.github.io/Sunil-Bhaiya-PrepTrack/) · [🐛 Report an issue](https://github.com/swastiksingh-dev/Sunil-Bhaiya-PrepTrack/issues)
 
+<p align="center">
+<a href="#-what-is-this">Features</a> ·
+<a href="#%EF%B8%8F-run-it-locally">Setup</a> ·
+<a href="#-test-it">Tests</a> ·
+<a href="#-contributors">Contributors</a>
+</p>
+
 <img src="./docs/demo.gif" width="800" alt="PrepTrack tour: landing page, pace demo, dashboard and chapters" />
 
 *Landing → pace demo → dashboard → chapters. Fully offline-capable.*
@@ -93,11 +100,18 @@ dev/prod builds are unaffected.
 
 Thanks to everyone who makes PrepTrack better:
 
-<a href="https://github.com/swastiksingh-dev/Sunil-Bhaiya-PrepTrack/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=swastiksingh-dev/Sunil-Bhaiya-PrepTrack" alt="PrepTrack contributors" loading="lazy" />
-</a>
+<table>
+<tr>
+<td align="center" width="200">
+<a href="https://github.com/swastiksingh-dev"><img src="https://github.com/swastiksingh-dev.png" width="100" height="100" alt="Swastik Singh" loading="lazy" style="border-radius:50%" /><br/><b>Swastik Singh</b></a><br/>owner & maintainer
+</td>
+<td align="center" width="200">
+<a href="https://github.com/sunilbhaiya200"><img src="https://github.com/sunilbhaiya200.png" width="100" height="100" alt="sunilbhaiya200" loading="lazy" style="border-radius:50%" /><br/><b>sunilbhaiya200</b></a><br/>contributor
+</td>
+</tr>
+</table>
 
-With thanks to [sunilbhaiya200](https://github.com/sunilbhaiya200) — contributor.
+<sub>See the full <a href="https://github.com/swastiksingh-dev/Sunil-Bhaiya-PrepTrack/graphs/contributors">contributors graph</a>.</sub>
 
 ---
 
