@@ -96,6 +96,13 @@ dev/prod builds are unaffected.
 - `public/pdfs/` — CBQ volumes (never precached, keeps installs light), `sw.js`
 - `tests/` — Playwright suites
 
+## For my teacher
+
+Sir, this is a small contribution from my side. I rebuilt your tracker as
+PrepTrack so that any student can use it for free. Thank you for teaching me.
+
+— Swastik
+
 ## Contributors
 
 Thanks to everyone who makes PrepTrack better:
