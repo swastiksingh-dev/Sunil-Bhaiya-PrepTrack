@@ -2,26 +2,21 @@
 
 <img src="./app/icon.svg" width="120" height="120" alt="PrepTrack logo" />
 
-# 📚 PrepTrack
+# PrepTrack
 
-**Sunil Bhaiya PrepTrack — the rebuilt, offline-first evolution of the original Sunil Bhaiya tracker.**
+### Sunil Bhaiya PrepTrack — the rebuilt, offline-first evolution of the original Sunil Bhaiya tracker.
 
 *Know exactly what to study next.*
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-22c55e?style=for-the-badge)](https://swastiksingh-dev.github.io/Sunil-Bhaiya-PrepTrack/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://swastiksingh-dev.github.io/Sunil-Bhaiya-PrepTrack/)
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38BDF8?style=flat-square&logo=tailwind-css&logoColor=black)](https://tailwindcss.com/)
-[![PWA](https://img.shields.io/badge/PWA-offline--first-6a4cf5?style=flat-square)](https://web.dev/progressive-web-apps/)
+[![PWA](https://img.shields.io/badge/PWA-offline_first-6a4cf5?style=flat-square)](https://web.dev/progressive-web-apps/)
 
-[✨ **Try the live demo**](https://swastiksingh-dev.github.io/Sunil-Bhaiya-PrepTrack/) · [🐛 Report an issue](https://github.com/swastiksingh-dev/Sunil-Bhaiya-PrepTrack/issues)
+[**✨ Try the live demo**](https://swastiksingh-dev.github.io/Sunil-Bhaiya-PrepTrack/) · [🐛 Report an issue](https://github.com/swastiksingh-dev/Sunil-Bhaiya-PrepTrack/issues)
 
-<p align="center">
-<a href="#-what-is-this">Features</a> ·
-<a href="#%EF%B8%8F-run-it-locally">Setup</a> ·
-<a href="#-test-it">Tests</a> ·
-<a href="#-contributors">Contributors</a>
-</p>
+[Features](#features) · [Setup](#setup) · [Tests](#tests) · [Contributors](#contributors)
 
 <img src="./docs/demo.gif" width="800" alt="PrepTrack tour: landing page, pace demo, dashboard and chapters" />
 
@@ -29,26 +24,18 @@
 
 </div>
 
----
-
-## What is this?
+## What is this
 
 PrepTrack plans **backwards from your exam datesheet** and scopes every number
 to your **real exam syllabus**. For CBSE **Class 9 & 10 — Science, Maths, and
 Social Science** — each chapter breaks into finishable stages, and the tracker
 tells you the one honest number that matters: **stages per day**.
 
-- 100% **offline-first** — install it, lose signal, keep studying
-- **No accounts, no servers** — progress lives on the student's own device
-- **Free forever** — one-file backup moves everything to a new phone
-
-<table>
-<tr>
-<td align="center">📴<br/><b>Offline-first</b><br/>Works without internet</td>
-<td align="center">🔒<br/><b>Private</b><br/>Data never leaves the device</td>
-<td align="center">💸<br/><b>Free forever</b><br/>No accounts, no paywalls</td>
-</tr>
-</table>
+<p align="center">
+<b>📴 Offline-first</b> · install it, lose signal, keep studying<br/>
+<b>🔒 No accounts</b> · progress lives on the student's own device<br/>
+<b>💸 Free forever</b> · one-file backup moves everything to a new phone
+</p>
 
 ## Features
 
@@ -62,7 +49,12 @@ tells you the one honest number that matters: **stages per day**.
 | 📄 Resources | 8 Competency (CBQ) PDF volumes on-device + official CBSE PYQ portal |
 | ⚙️ Settings | Syllabus editor, datesheet, backup/restore, profiles, sounds, diagnostics |
 
-## Run it locally
+## Setup
+
+## Setup
+
+<details>
+<summary><b>Run it locally</b></summary>
 
 ```bash
 npm install
@@ -76,15 +68,26 @@ npm run build
 npm run start -- --port 3111
 ```
 
-## Test it
+</details>
+
+## Tests
+
+<details>
+<summary><b>How we verify</b></summary>
 
 ```bash
 node tests/e2e.mjs   # 100+ assertions: every route × mobile / tablet / desktop
 ```
 
-## Deploy (GitHub Pages)
+Every push is type-checked (`tsc`), production-built, and Playwright-tested
+with zero console errors before it ships.
 
-Pushes to `main` auto-deploy via [`.github/workflows/pages.yml`](.github/workflows/pages.yml).
+</details>
+
+## Deploy
+
+Pushes to `main` auto-deploy to GitHub Pages via
+[`.github/workflows/pages.yml`](.github/workflows/pages.yml).
 The Pages build is a static export under `/Sunil-Bhaiya-PrepTrack` — local
 dev/prod builds are unaffected.
 
